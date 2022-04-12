@@ -1,0 +1,39 @@
+body {
+	font-family: sans-serif;
+	background-color: #ff0;
+}
+
+main {
+	max-width: 400px;
+	margin: auto;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+img {
+	max-width: 200px;
+}
+
+h2 {
+	text-align: center;
+	border: 2px dashed black;
+}
+
+p {
+	text-align: justify;
+}
+
+p.photo {
+	text-align: center;
+}
+
+del {
+	background-color: #f77;
+}
+
+ins {
+	background-color: #7f7;
+}
